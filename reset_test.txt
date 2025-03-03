@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 second Commit
 hihihi
+=======
+>>>>>>> parent of 986cf69 (feat: second commit)
